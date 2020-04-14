@@ -1,0 +1,1 @@
+<view><view class="block"></view><view class="QR"><image src="../../../static/img/qrcode.jpg"></image></view><view class="title">严大爷练习</view><view data-event-opts="{{[['tap',[['handleSavePhotos',['$event']]]]]}}" hidden="{{!(showBtn)}}" class="btn" bindtap="__e">{{''+savePhotos+''}}</view></view>
